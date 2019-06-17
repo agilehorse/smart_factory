@@ -1,0 +1,9 @@
+Longest outage: 6
+Shortest outage: 6
+Average outage: 6
+Average wait time for repairer: 1.0
+Sources of outages: 
+DMAM
+DMMPM
+Outages Report for ticks: 350-520
+______________________________________

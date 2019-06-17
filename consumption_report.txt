@@ -1,0 +1,32 @@
+Robot factory
+ Idle workers: 
+ Line 1
+   worker DRSU1884122755 electricity in Kwh 1000.0 oil in litres 0.0 money spent 0.0 materials spent 0.0kg of Alloys, 0.0kg of Coltan, 0.0kg of Plastics, 0.0kg of PreciousMetals, 0.0kg of Metalloids
+   worker DMEM1075738627 electricity in Kwh 3600.0 oil in litres 12.0 money spent 12.0 materials spent 25.92kg of Alloys, 0.0kg of Coltan, 0.2592kg of Plastics, 0.07776000000000001kg of PreciousMetals, 12960.0kg of Metalloids
+   worker DRAU246550802 electricity in Kwh 1600.0 oil in litres 0.0 money spent 0.0 materials spent 0.0kg of Alloys, 0.0kg of Coltan, 0.0kg of Plastics, 0.0kg of PreciousMetals, 0.0kg of Metalloids
+   worker DMSM1773206895 electricity in Kwh 3000.0 oil in litres 10.0 money spent 10.0 materials spent 16.0kg of Alloys, 0.0kg of Coltan, 0.16kg of Plastics, 0.032kg of PreciousMetals, 48.0kg of Metalloids
+   worker DMMPM1859039536 electricity in Kwh 5000.0 oil in litres 50.0 money spent 50.0 materials spent 16.0kg of Alloys, 16.0kg of Coltan, 0.0kg of Plastics, 0.0kg of PreciousMetals, 1.6kg of Metalloids
+   worker HEA673068808 money paid: 2500.00.0kg of Alloys, 0.0kg of Coltan, 0.02kg of Plastics, 1.9999999999999998E-5kg of PreciousMetals, 10.0kg of Metalloids
+   worker DMAM1543974463 electricity in Kwh 3200.0 oil in litres 8.0 money spent 8.0 materials spent 51.2kg of Alloys, 0.0kg of Coltan, 0.1024kg of Plastics, 0.01024kg of PreciousMetals, 20.48kg of Metalloids
+   worker HV17037394 money paid: 1600.00.0kg of Alloys, 0.0kg of Coltan, 0.0kg of Plastics, 0.0kg of PreciousMetals, 0.0kg of Metalloids
+   worker DRPA22069592 electricity in Kwh 5000.0 oil in litres 50.0 money spent 50.0 materials spent 0.0kg of Alloys, 0.0kg of Coltan, 0.0kg of Plastics, 0.0kg of PreciousMetals, 0.0kg of Metalloids
+   worker DRPA156545103 electricity in Kwh 5000.0 oil in litres 50.0 money spent 50.0 materials spent 0.0kg of Alloys, 0.0kg of Coltan, 0.0kg of Plastics, 0.0kg of PreciousMetals, 0.0kg of Metalloids
+   worker DRPA1205555397 electricity in Kwh 4000.0 oil in litres 40.0 money spent 40.0 materials spent 0.0kg of Alloys, 0.0kg of Coltan, 0.0kg of Plastics, 0.0kg of PreciousMetals, 0.0kg of Metalloids
+   
+ Line 2
+   worker DRSU282828951 electricity in Kwh 1600.0 oil in litres 0.0 money spent 0.0 materials spent 0.0kg of Alloys, 0.0kg of Coltan, 0.0kg of Plastics, 0.0kg of PreciousMetals, 0.0kg of Metalloids
+   worker DMEM1160003871 electricity in Kwh 5400.0 oil in litres 18.0 money spent 18.0 materials spent 466.56000000000006kg of Alloys, 0.0kg of Coltan, 4.6655999999999995kg of Plastics, 1.3996800000000003kg of PreciousMetals, 233280.0kg of Metalloids
+   worker DMSM1739876329 electricity in Kwh 4800.0 oil in litres 16.0 money spent 16.0 materials spent 256.0kg of Alloys, 0.0kg of Coltan, 2.56kg of Plastics, 0.512kg of PreciousMetals, 768.0kg of Metalloids
+   worker DMMPM1134612201 electricity in Kwh 8000.0 oil in litres 80.0 money spent 80.0 materials spent 256.0kg of Alloys, 256.0kg of Coltan, 0.0kg of Plastics, 0.0kg of PreciousMetals, 25.6kg of Metalloids
+   worker HEA1484531981 money paid: 4000.00.0kg of Alloys, 0.0kg of Coltan, 0.16kg of Plastics, 1.5999999999999999E-4kg of PreciousMetals, 80.0kg of Metalloids
+   worker DMAM1885996206 electricity in Kwh 6400.0 oil in litres 16.0 money spent 16.0 materials spent 819.2kg of Alloys, 0.0kg of Coltan, 1.6384kg of Plastics, 0.16384kg of PreciousMetals, 327.68kg of Metalloids
+   worker HV1159114532 money paid: 3200.00.0kg of Alloys, 0.0kg of Coltan, 0.0kg of Plastics, 0.0kg of PreciousMetals, 0.0kg of Metalloids
+   worker DRPA775931202 electricity in Kwh 7000.0 oil in litres 70.0 money spent 70.0 materials spent 0.0kg of Alloys, 0.0kg of Coltan, 0.0kg of Plastics, 0.0kg of PreciousMetals, 0.0kg of Metalloids
+   worker DRPA278934944 electricity in Kwh 8000.0 oil in litres 80.0 money spent 80.0 materials spent 0.0kg of Alloys, 0.0kg of Coltan, 0.0kg of Plastics, 0.0kg of PreciousMetals, 0.0kg of Metalloids
+   worker DRPA786041152 electricity in Kwh 8000.0 oil in litres 80.0 money spent 80.0 materials spent 0.0kg of Alloys, 0.0kg of Coltan, 0.0kg of Plastics, 0.0kg of PreciousMetals, 0.0kg of Metalloids
+   
+ 
+ Line 1 costs: electricity in Kwh 31400.0 oil in litres 220.0 money spend 8.502337541801636E9 materials 109.12kg of Alloys, 16.0kg of Coltan, 0.5416000000000001kg of Plastics, 0.12002000000000002kg of PreciousMetals, 13040.08kg of Metalloids
+ Line 2 costs: electricity in Kwh 49200.0 oil in litres 360.0 money spend 2.7491136161781274E12 materials 1797.7600000000002kg of Alloys, 256.0kg of Coltan, 9.024000000000001kg of Plastics, 2.07568kg of PreciousMetals, 234481.28kg of Metalloids
+ Robot factory costs: electricity in Kwh 80600.0 oil in litres 580.0 money spend 5.821002256551651E12 materials 1906.88kg of Alloys, 272.0kg of Coltan, 9.565600000000002kg of Plastics, 2.1957000000000004kg of PreciousMetals, 247521.36kg of MetalloidsConsumption Report for ticks: 500-600
+____________________________________________

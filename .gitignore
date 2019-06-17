@@ -1,0 +1,14 @@
+# Enterprice architect model
+*.EAP
+
+# Exported diagrams
+# *.png
+
+# Intellij
+.idea/
+semestralka.iml
+*.iws
+
+# Maven
+log/
+target/

@@ -1,0 +1,12 @@
+Robot factory
+
+ Line 1
+
+  Workers configured in tick 2220 DMMPM DRPA DMAM DRPA DMSM DRPA DMEM HEA DRSU HV to make product: Artoo-Detoo
+ 
+ Line 2
+
+  Configuration hasn't changed since the beginning.
+  Current configuration is: empty in tick 2397
+Factory Configuration Report for ticks: 500-2500
+____________________________________________________

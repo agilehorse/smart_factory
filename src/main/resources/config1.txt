@@ -1,0 +1,45 @@
+{
+    "products": [ { "name" : "Arnold", "number" :  "100"  },
+                  { "name" : "Artoo-Detoo" , "number" : "200"  } ],
+
+    "workers":
+
+    [
+             [ { "name" : "HR", "number" :  1  },
+                { "name" : "HV" , "number" : 2  },
+                { "name" : "HEA" , "number" : 2  }
+             ],
+
+            [ { "name" : "DMMPM", "number" :  2 , "lifespan" : 50 },
+                { "name" : "DMEM" , "number" : 2 , "lifespan" : 50 },
+                { "name" : "DMAM" , "number" : 2 , "lifespan" : 50 },
+                { "name" : "DMSM" , "number" : 2 , "lifespan" : 50 }
+            ],
+
+            [ { "name" : "DRPA", "number" :  6 , "lifespan" : 50 },
+                { "name" : "DRSU" , "number" : 2 , "lifespan" : 50 },
+                { "name" : "DRAU" , "number" : 1 , "lifespan" : 50 }
+            ]
+
+    ],
+
+    "visitors" :
+
+    [
+         {  "type" : "inspector", "arrival" : 300 },
+         {  "type" : "director", "arrival" : 500 }
+    ],
+
+    "reports" :
+
+    [
+             {  "type" : 1, "from" : 350, "to": 520 },
+             {  "type" : 2, "from" : 270, "to": 420  },
+             {  "type" : 3, "from" : 500, "to": 600 },
+             {  "type" : 4, "from" : 500, "to": 2500 }
+
+    ],
+
+    "devices_states_tick" : 800
+
+}
